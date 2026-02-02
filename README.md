@@ -6,3 +6,4 @@
 <p>count rock </p>
 <p>count paper</p>
 <p>count scissor</p>
+<h6>any one win</h6>
