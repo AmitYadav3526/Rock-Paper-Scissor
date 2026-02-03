@@ -8,3 +8,4 @@
 <p>count scissor</p>
 <h6>any one win</h6>
 <h4>you won!</h4>
+<h4>you loss!</h4>
