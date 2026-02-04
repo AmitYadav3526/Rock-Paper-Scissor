@@ -10,3 +10,5 @@
 <h4>you won!</h4>
 <h4>you loss!</h4>
 <h3>match tie!</h3>
+<h2>Re-Start Match
+</h2>
