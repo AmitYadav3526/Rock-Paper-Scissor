@@ -12,3 +12,5 @@
 <h3>match tie!</h3>
 <h2>Re-Start Match
 </h2>
+<h2>Are you ready
+</h2>
